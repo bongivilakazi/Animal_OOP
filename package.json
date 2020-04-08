@@ -1,0 +1,14 @@
+{
+  "name": "animal_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sibongile Vilakazi",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
